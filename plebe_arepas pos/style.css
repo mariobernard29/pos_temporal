@@ -1,0 +1,16 @@
+body{
+    background-color: #1d2630;
+}
+*{
+    color: #FFF;
+}
+#total-cost{
+    color: #333;
+    font-size: 24px;
+    font-weight: bold;
+}
+@media print{
+        .no-print{
+            display: none;
+        }
+    }
